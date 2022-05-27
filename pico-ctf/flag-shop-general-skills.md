@@ -4,7 +4,8 @@ description: The problem is about exploiting C program vulnerable to Integer Ove
 
 # Flag Shop
 
-**\*\*Vulnerable C Program\*\***
+**Vulnerable C Program**
+
 
 ```c
 #include <stdio.h>
@@ -93,18 +94,16 @@ Here, `account_balance` is `1100` and `flag` cost is `100000` .
 
 **But here for the 2nd choice `account_balance` is updated, so if some how we can make `number_flags` negative, we can increase the value of `account_balance`.**
 
-![](<../../.gitbook/assets/Pasted image 20220524192230.png>)
+![](../../assets_md/Pasted%20image%2020220524192230.png)
 
 Since, `number_flags` and `total_cost` are **integer values** we can overflow them, to make negative.
 
-![](<../../.gitbook/assets/Pasted image 20220524193007.png>)
+![](../../assets_md/Pasted%20image%2020220524193007.png)
 
-![](<../../.gitbook/assets/Pasted image 20220524195126.png>)
+![](../../assets_md/Pasted%20image%2020220524195126.png)
 
-![](<../../.gitbook/assets/Pasted image 20220524204515.png>)
+![](../../assets_md/Pasted%20image%2020220524204515.png)
 
-![](<../../.gitbook/assets/Pasted image 20220524204654.png>)
+![](../../assets_md/Pasted%20image%2020220524204654.png)
 
 Then, buy the flags with choice >>> `2 2 1`
-
-****
