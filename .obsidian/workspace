@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "826bbd2513fcd4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1153bcac574dfab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pico-ctf/flag-shop-general-skills.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b053ae158092b513",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ebb5df535d81a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958b7ba98fe6b787",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cce2ab4290b3a7e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af07a729bc60e5e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "18f2f2c3dcb04a7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ceac07d62ae86ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pico-ctf/flag-shop-general-skills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a1153bcac574dfab",
+  "lastOpenFiles": [
+    "pico-ctf/flag-shop-general-skills.md",
+    "pico-ctf/it-is-my-birthday.md"
+  ]
+}
