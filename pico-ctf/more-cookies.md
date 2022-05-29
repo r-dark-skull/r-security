@@ -10,7 +10,7 @@ I forgot Cookies can Be modified Client-side, so now I decided to encrypt them! 
 
 ![](/assets_md/Pasted%20image%2020220527163955.png)
 
-![](assets_md/Pasted%20image%2020220527172003.png)
+![](/assets_md/Pasted%20image%2020220527172003.png)
 
 
 **Decoding Base64**
@@ -79,4 +79,4 @@ def main():
 main()
 ```
 
-![](assets_md/Pasted%20image%2020220529102107.png)
+![](/assets_md/Pasted%20image%2020220529102107.png)
